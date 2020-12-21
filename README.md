@@ -1,16 +1,20 @@
-### Hi there 👋
+###  <p align="left"> Hey There 👋<br> My name is Henrique Rohamann </p>
+<img align="right" width="250px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"/>
 
-<!--
-**h3nriq/h3nriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥳 - I'm 23 years old 
 
-Here are some ideas to get you started:
+📜 - Student of Internet Dedicated Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 - Currently working as Back-end Software Developer at [*KingHost*](https://king.host/).
+
+⚡  - Fun facts: Father of three cats. Also, I read mangas and play drums in the free time.
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=h3nriq&show_icons=true&theme=tokyonight" alt="Henrique Stats" width="40%" />](https://github.com/h3nriq)
+
+
+### <samp> Languagues and Tools </samp>
+
+
+<p align="left">
+<img width="60px" src="" alt="" style="vertical-align:top; margin:4px"/>
+</p>
