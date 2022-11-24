@@ -5,7 +5,7 @@
 
 💻 - Currently working as Software Engineer at [*KingHost*](https://king.host/);
 
-⚡  - Fun facts: Father of three cats. Also, in my free time, I read mangas and ride a bike;
+⚡  - Fun facts: Father of three cats. Also, in my free time, I read mangas and ride motorcycle;
 </br></br></br>
 
 ###  Languagues and Tools 
