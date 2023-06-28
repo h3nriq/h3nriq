@@ -12,8 +12,9 @@
 
 <p align="left">
 <img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/python-logo-only.svg" alt="python" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/Pandas_logo.svg" alt="pandas" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/geopandas_logo_web.svg" alt="geopandas" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/Pandas_mark.svg" alt="pandas" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/geopandas_icon.svg" alt="geopandas" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/seaborn-logo.svg" alt="seaborn" style="vertical-align:top; margin:4px"/>
 <img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/Jupyter_logo.svg" alt="jupyter" style="vertical-align:top; margin:4px"/>
 <img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/github.svg" alt="Github" style="vertical-align:top; margin:4px"/>
 <img width="60px" src="https://raw.githubusercontent.com/h3nriq/h3nriq/main/svg/docker.svg" alt="docker" style="vertical-align:top; margin:4px"/>
