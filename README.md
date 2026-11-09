@@ -5,7 +5,7 @@
 
 💻 - Currently, I have my own company where I analyze data and provide solutions using systems developed by my company for my clients;
 
-⚡  - Fun facts: Father of three cats. Also, in my free time, I read mangas and ride motorcycle;
+⚡  - Fun facts: Father of two cats and two dogs. Also, in my free time, I read mangas and ride motorcycle;
 </br></br></br>
 
 ###  Languagues and Tools 
